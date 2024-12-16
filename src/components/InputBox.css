@@ -1,0 +1,19 @@
+.form-control {
+  display: flex;
+  gap: 1rem;
+}
+
+.field-wrapper select {
+  width: 100%;
+  padding: 0.5rem;
+}
+
+.field-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.field-wrapper input {
+    padding: 0.5rem;
+}
